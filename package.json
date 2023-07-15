@@ -1,0 +1,20 @@
+{
+  "name": "belajar-webpack-code",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunawansetia/belajar-webpack-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunawansetia/belajar-webpack-code/issues"
+  },
+  "homepage": "https://github.com/gunawansetia/belajar-webpack-code#readme"
+}
