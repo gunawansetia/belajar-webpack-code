@@ -1,5 +1,5 @@
-const cekInputValid = require("./utils/cekInputValid");
-const parseInput = require("./utils/parseInput");
+import { cekInputValid } from "./utils/cekInputValid.js";
+import { parseInput } from "./utils/parseInput.js";
 
 const run = (alertService, calculatorService, jokesService) => {
   alertService.sembunyikanError();
@@ -26,4 +26,4 @@ const run = (alertService, calculatorService, jokesService) => {
   });
 };
 
-module.exports = run;
+export default run;
